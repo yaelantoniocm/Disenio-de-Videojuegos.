@@ -1,2 +1,2 @@
-# Dise-o-de-Videojuegos.
+# Diseño-de-Videojuegos.
 Diseño de videojuegos
